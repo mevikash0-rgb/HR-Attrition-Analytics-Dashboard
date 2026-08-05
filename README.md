@@ -69,7 +69,8 @@ A dedicated summary page was built to translate the analysis into actionable HR 
 | KPI | Value |
 |---|---|
 | Total Employee Count | 1.47K |
-| Active Employees | 237 |
+| Active Employees | 1233 |
+| Attrition Count | 237 |
 | Attrition Rate (%) | 16% |
 | Average Employee Age | 36.92 |
 | Average Employee Tenure (Years) | 7.01 |
